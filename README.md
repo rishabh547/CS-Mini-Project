@@ -1,4 +1,4 @@
-# CS-Mini-Project
+# Sudoku Solver
 A Sudoku Solver (16x16) made using C language  
 PIC-Mini-Project-Sudoku-puzzle
 Sudoku puzzle(9*9) created by Tandon and edited by rishabh, utsavi and ayushi.
