@@ -1,5 +1,5 @@
 # Sudoku Solver
-### A Sudoku Solver (16x16) made using C language for CS mini project
+### We made a modified Sudoku Solver(16x16) using C language for CS mini project
 PIC-Mini-Project-Sudoku-puzzle
 Sudoku puzzle(9*9) created by Tandon and edited by rishabh, utsavi and ayushi.
 
